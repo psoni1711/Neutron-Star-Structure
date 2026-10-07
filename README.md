@@ -15,7 +15,7 @@ A numerical investigation of how gravity, pressure, and the equation of state de
 The initial model solves
 
 $$
-\frac{dP}{dr} = -\frac{Gm(r)\rho(r)}{r^2}
+\frac{dP}{dr} = -\frac{Gm(r)\rho(r)}{r^2} \qquad \frac{dm}{dr} = 4\pi r^2\rho(r)
 $$
 
 with a polytropic equation of state,
